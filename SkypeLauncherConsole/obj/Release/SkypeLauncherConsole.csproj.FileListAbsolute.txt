@@ -1,0 +1,12 @@
+c:\users\nfsilva\documents\visual studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\bin\Release\SkypeLauncherConsole.exe.config
+c:\users\nfsilva\documents\visual studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\bin\Release\SkypeLauncherConsole.exe
+c:\users\nfsilva\documents\visual studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\bin\Release\SkypeLauncherConsole.pdb
+c:\users\nfsilva\documents\visual studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\obj\Release\SkypeLauncherConsole.exe
+c:\users\nfsilva\documents\visual studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\obj\Release\SkypeLauncherConsole.pdb
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\bin\Release\SkypeLauncherConsole.exe.config
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\obj\Release\SkypeLauncherConsole.exe
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\obj\Release\SkypeLauncherConsole.pdb
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\bin\Release\SkypeLauncherConsole.exe
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\bin\Release\SkypeLauncherConsole.pdb
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\obj\Release\SkypeLauncherConsole.StaticStrings.resources
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\obj\Release\SkypeLauncherConsole.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+c:\users\nfsilva\documents\visual studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\bin\Debug\SkypeLauncherConsole.exe.config
+c:\users\nfsilva\documents\visual studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\bin\Debug\SkypeLauncherConsole.exe
+c:\users\nfsilva\documents\visual studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\bin\Debug\SkypeLauncherConsole.pdb
+c:\users\nfsilva\documents\visual studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.exe
+c:\users\nfsilva\documents\visual studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.pdb
+C:\Users\nfsilva\Documents\Visual Studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.csprojResolveAssemblyReference.cache
+C:\Users\nfsilva\Documents\Visual Studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.StaticStrings.resources
+C:\Users\nfsilva\Documents\Visual Studio 2013\Projects\SkypeLauncherConsole\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.csproj.GenerateResource.Cache
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\bin\Debug\SkypeLauncherConsole.exe.config
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.exe
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.pdb
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\bin\Debug\SkypeLauncherConsole.exe
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\bin\Debug\SkypeLauncherConsole.pdb
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.csprojResolveAssemblyReference.cache
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.StaticStrings.resources
+C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.csproj.GenerateResource.Cache
