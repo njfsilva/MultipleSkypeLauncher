@@ -14,3 +14,4 @@ C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\bin
 C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.csprojResolveAssemblyReference.cache
 C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.StaticStrings.resources
 C:\Users\nfsilva\Documents\GitHub\MultipleSkypeLauncher\SkypeLauncherConsole\obj\Debug\SkypeLauncherConsole.csproj.GenerateResource.Cache
+C:\Users\Nelson\Source\Repos\MultipleSkypeLauncher\SkypeLauncherConsole\bin\Debug\SkypeLauncherConsole.exe.config

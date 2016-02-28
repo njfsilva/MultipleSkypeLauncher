@@ -18,7 +18,7 @@ namespace SkypeLauncherConsole
                 using (var stream = new FileStream(accountFile, FileMode.Open))
                 {
                     var xml = new XmlSerializer(typeof (List<Account>));
-                    return (List<Account>) (xml.Deserialize(stream));
+                    return (List<Account>) xml.Deserialize(stream);
                 }
             }
             catch

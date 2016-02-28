@@ -1,12 +1,11 @@
-﻿using System.Collections.Generic;
-using System.Configuration;
+﻿using System.Configuration;
 using System.Diagnostics;
 
 namespace SkypeLauncherConsole
 {
-    static class Program
+    internal static class Program
     {
-        static void Main()
+        private static void Main()
         {
             var accounts = IOHelper.LoadAccounts(StaticStrings.AccountsFileName);
 
@@ -23,7 +22,7 @@ namespace SkypeLauncherConsole
 
                     var start = new ProcessStartInfo
                     {
-                        Arguments = string.Format("/Secondary /nosplash /minimized /username:{0} /password:{1}", username, password),
+                        Arguments = $"/Secondary /nosplash /minimized /username:{username} /password:{password}",
                         FileName = skypeLocation.Trim()
                     };
 
